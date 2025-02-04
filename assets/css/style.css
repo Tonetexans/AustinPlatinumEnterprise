@@ -49,7 +49,7 @@ button:hover {
     background-color: #003366;
 }
 body {
-    background-image: url('assets/images/ast_truck_image.jpg');
+    background-image: url('https://raw.githubusercontent.com/Tonetexans/AustinPlatinumEnterprise/refs/heads/main/assets/images/ast_truck_image.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
