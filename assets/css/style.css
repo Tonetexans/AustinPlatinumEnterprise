@@ -49,7 +49,7 @@ button:hover {
     background-color: #003366;
 }
 body {
-    background-image: url('assets/images/ast%20truck%20image.jpg'); /* Correct file path */
+    background-image: url('assets/images/ast_truck_image.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
